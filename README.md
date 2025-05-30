@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @QuarkInComputing
-- 🌱 I’m currently learning computer science.
+@QuarkInComputing (AKA Jack)
 
-This GitHub page acts as a place to store all my current and past coding projects.
+# Find me at
+
+- [Itch.io](https://quarkinanarchy.itch.io/)
+- [Linkedin](https://www.linkedin.com/in/jack-mclean-wilson/) 
